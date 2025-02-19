@@ -6,21 +6,21 @@
 ## Tech Stack
 
 ### Frontend 
-– React Native
-– Expo, CLI, Go, EAS, AV module
-– 21st.dev (shadcn, ant.design, cultui ...)
+- React Native
+- Expo, CLI, Go, EAS, AV module
+- 21st.dev (shadcn, ant.design, cultui ...)
 - Redux
 
 ### Backend
-– GCP, Cloud Functions
-– Firebase
-– Node.js / python
+- GCP, Cloud Functions
+- Firebase
+- Node.js / python
 
 ### AI / ML
-– Gemini API, fine-tuned on my data
-– Google Text-to-speech
-– Google Cloud Natural Language API
+- Gemini API, fine-tuned on my data
+- Google Text-to-speech
+- Google Cloud Natural Language API
 
 ### Storage
-– Google cloud storage, for raw recordings
-– Google Firestore
+- Google cloud storage, for raw recordings
+- Google Firestore
